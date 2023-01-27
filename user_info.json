@@ -1,0 +1,30 @@
+{
+    "behdaddd": {
+        "username": "behdaddd",
+        "full_name": "behdad siavoshi",
+        "password": "1234",
+        "address": "pasdaran",
+        "phone_number": "4535656"
+    },
+    "pegahalemi": {
+        "username": "pegahalemi",
+        "full_name": "pegah alemi",
+        "password": "12345",
+        "address": "ferdos blv",
+        "phone_number": "4515"
+    },
+    "sepehr": {
+        "username": "sepehr",
+        "full_name": "sepehrroohi",
+        "password": "12345678",
+        "address": "tehran",
+        "phone_number": "091"
+    },
+    "parisarahmani": {
+        "username": "parisarahmani",
+        "full_name": "parisa rahmani",
+        "password": "didi2255",
+        "address": "dibaji",
+        "phone_number": "223344"
+    }
+}

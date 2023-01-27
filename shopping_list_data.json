@@ -1,0 +1,27 @@
+{
+    "FRUITS": {
+        "APPLE": 17,
+        "ORANGE": 8,
+        "BANANA": 21,
+        "KIWI": 30,
+        "STRAWBERRIES": 60,
+        "MANGO": 55
+    },
+    "SUPERMARKET": {
+        "MILK": 2,
+        "WATER": 1,
+        "HONEY": 12,
+        "CAKE": 3,
+        "CHIPS": 2,
+        "CHOCOLATE": 7,
+        "COCA": 4
+    },
+    "VEGETABLES": {
+        "CARROT": 5,
+        "CORN": 10,
+        "LETTUCE": 15,
+        "PEPPER": 12,
+        "GARLIC": 17,
+        "BROCCOLI": 20
+    }
+}

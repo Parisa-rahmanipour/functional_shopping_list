@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "shopping-list"
+version = "0.1.0"
+description = ""
+authors = ["parisarahmanipour <parisrahmani93@gmail.com>"]
+readme = "README.md"
+packages = [{include = "shopping_list"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyment = "^0.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
